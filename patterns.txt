@@ -1,0 +1,5 @@
+Facade - มีการสร้าง class Facade เพื่อเป็น class ด่านหน้าให้ client ติดต่อ
+Abstract Factory - มีการ login ได้หลายแบบ
+adapter - มีการใช้ adapter เพื่อเป็นเสทิอน plug เพื่อใช้ library
+bridge - มีการเชื่อม class ต่างๆเข้าที่ facade
+strategy มีการเลือกการจ่ายได้หลายแบบ
